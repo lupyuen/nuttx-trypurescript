@@ -1,3 +1,9 @@
+# Online PureScript Compiler for Apache NuttX RTOS
+
+Read the article...
+
+-   ["Too many Embedded Logs? PureScript might help (Ox64 BL808 SBC / Apache NuttX RTOS)"](https://lupyuen.github.io/articles/purescript)
+
 # Try PureScript
 
 [![Build Status](https://github.com/purescript/trypurescript/workflows/CI/badge.svg?branch=master)](https://github.com/purescript/trypurescript/actions?query=workflow%3ACI+branch%3Amaster)
